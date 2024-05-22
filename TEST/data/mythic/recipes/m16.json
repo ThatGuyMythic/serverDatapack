@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " b ",
+        "Bin",
+        "   "
+    ],
+    "key": {
+        "b": {
+            "item": "minecraft:birch_fence_gate"
+        },
+        "B": {
+            "item": "minecraft:blaze_rod"
+        },
+        "i": {
+            "item": "minecraft:iron_block"
+        },
+        "n": {
+            "item": "minecraft:netherite_scrap"
+        }
+    },
+    "result": {
+        "item": "pointblank:m16a1",
+        "count": 1
+    }
+}

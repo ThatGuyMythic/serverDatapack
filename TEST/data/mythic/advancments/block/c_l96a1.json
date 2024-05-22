@@ -1,0 +1,14 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "mythic:l96a1"
+      }
+    }
+  },
+  "rewards": {
+    "function": "mythic:block/l96a1"
+  }
+}
+  

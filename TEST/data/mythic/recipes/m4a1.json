@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " b ",
+        "tin",
+        "   "
+    ],
+    "key": {
+        "b": {
+            "item": "minecraft:blaze_powder"
+        },
+        "n": {
+            "item": "minecraft:netherite_ingot"
+        },
+        "t": {
+            "item": "minecraft:target"
+        },
+        "i": {
+            "item": "minecraft:iron_block"
+        }
+    },
+    "result": {
+        "item": "pointblank:m4a1mod1",
+        "count": 1
+    }
+}

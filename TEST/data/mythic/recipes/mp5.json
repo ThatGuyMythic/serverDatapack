@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " n ",
+        "idb",
+        "   "
+    ],
+    "key": {
+        "n": {
+            "item": "minecraft:netherite_ingot"
+        },
+        "d": {
+            "item": "minecraft:diamond_block"
+        },
+        "i": {
+            "item": "minecraft:iron_block"
+        },
+        "b": {
+            "item": "minecraft:blaze_rod"
+        }
+    },
+    "result": {
+        "item": "pointblank:mp5",
+        "count": 1
+    }
+}

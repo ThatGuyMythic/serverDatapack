@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " o ",
+        "icn",
+        "   "
+    ],
+    "key": {
+        "o": {
+            "item": "minecraft:observer"
+        },
+        "c": {
+            "item": "minecraft:crossbow"
+        },
+        "n": {
+            "item": "minecraft:netherite_ingot"
+        },
+        "i": {
+            "item": "minecraft:iron_block"
+        }
+    },
+    "result": {
+        "item": "pointblank:star15",
+        "count": 1
+    }
+}

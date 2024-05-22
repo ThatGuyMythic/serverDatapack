@@ -1,0 +1,10 @@
+{
+    "criteria": {
+      "unlock_area": {
+        "trigger": "minecraft:impossible"
+      }
+    },
+    "rewards": {
+      "function": "mythic:unlock_area"
+    }
+  }
